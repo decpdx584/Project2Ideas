@@ -12,6 +12,7 @@ In this space below, list **THREE** ideas for your Project 2. For each idea, inc
 1. Rock and roll jeopardy
 2. Fake news categorizer
 3. Virtual baseball cards/stats
+4. Animal Crossing Critter-pedia
 * Disclaimer: I've stayed up way too late and forgot to do this until now😅 I may need to give this some more thought tomorrow. I was just spitballing here. These ideas are par-boiled AT BEST.
 ---------------------------------------------------------
 
