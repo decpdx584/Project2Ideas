@@ -9,9 +9,10 @@ Review the [Project 2 requirements](https://tmdarneille.gitbook.io/sei-ga-sea/11
 In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://revelry.co/user-stories-that-dont-suck/) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. 
-2. 
-3.
+1. Rock and roll jeopardy
+2. Fake news categorizer
+3. Virtual baseball cards/stats
+* Disclaimer: I've stayed up way too late and forgot to do this until now😅 I may need to give this some more thought tomorrow. I was just spitballing here. These ideas are par-boiled AT BEST.
 ---------------------------------------------------------
 
 Make a PR when you're done!
