@@ -30,7 +30,7 @@ In the space below:
 ----------------------------------------------------------
 ### ERD
 
-[Link to my ERD] (https://drive.google.com/file/d/1kx8xL_9pB0So4SB34NaUeti_mLDAdDvb/view?usp=sharing)
+[Link to my ERD](https://drive.google.com/file/d/1kx8xL_9pB0So4SB34NaUeti_mLDAdDvb/view?usp=sharing)
 
 ----------------------------------------------------------
 ### User Stories
