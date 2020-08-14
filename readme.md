@@ -12,7 +12,7 @@ In this space below, list **THREE** ideas for your Project 2. For each idea, inc
 1. Rock and roll jeopardy
 2. Fake news categorizer
 3. Virtual baseball cards/stats
-4. Animal Crossing Critter-pedia
+4. Animal Crossing Critterpedia *<----- ... is the winner!*
 * Disclaimer: I've stayed up way too late and forgot to do this until now😅 I may need to give this some more thought tomorrow. I was just spitballing here. These ideas are par-boiled AT BEST.
 ---------------------------------------------------------
 
@@ -30,8 +30,14 @@ In the space below:
 ----------------------------------------------------------
 ### ERD
 
+[Link to my ERD] (https://drive.google.com/file/d/1kx8xL_9pB0So4SB34NaUeti_mLDAdDvb/view?usp=sharing)
+
 ----------------------------------------------------------
 ### User Stories
+
+* As a user, I want to have an account I can log into that stores the critters I've obtained in-game and makes my inventory browsable
+* As a user, I want to be able to add or remove critters from my inventory
+* As a user, I want to browse all the game's critters by name, category (fish, sea creature, bug), and availability (time of year and/or day)
 
 ----------------------------------------------------------
 ### Wireframes
