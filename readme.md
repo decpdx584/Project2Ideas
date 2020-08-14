@@ -42,6 +42,10 @@ In the space below:
 ----------------------------------------------------------
 ### Wireframes
 
+[Homepage](https://whimsical.com/9cLTGs8w3hgAGLxLC3w2Z1@2Ux7TurymN7h1osqxn9T)
+
+[Signup](https://whimsical.com/FxKEp7M6MxXznNGifAtUwm@2Ux7TurymN4F18qQfdBb)
+
 ----------------------------------------------------------
 
 Make a PR when you're done!
