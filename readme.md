@@ -47,6 +47,8 @@ In the space below:
 
 [Signup](https://whimsical.com/FxKEp7M6MxXznNGifAtUwm@2Ux7TurymN4F18qQfdBb)
 
+[Inventory](https://whimsical.com/4aNXdR7W4qVuXiMN7Zs9z4)
+
 ----------------------------------------------------------
 
 Make a PR when you're done!
